@@ -2,6 +2,10 @@
 
 A web application to discover random movies by genre using the TMDB API.
 
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/73d96ca6-23c5-4e8c-ac82-00471e43c819" />
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/024b7cf1-3956-4896-a81a-ba2a450df1d2" />
+
+
 ## Setup Instructions
 
 ### 1. Get a TMDB API Key
