@@ -1,0 +1,5 @@
+# Keep your API key secret - don't upload config.js to GitHub
+public/config.js
+
+# Environment files
+.env
