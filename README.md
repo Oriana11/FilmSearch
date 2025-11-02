@@ -2,6 +2,11 @@
 
 A web application to discover random movies by genre using the TMDB API.
 
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/55be9514-b0d4-417b-a82e-90d3eb9214e9" />
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/cabd4802-001b-4aac-bcaf-90d3d8efe0e7" />
+
+
+
 ## Setup Instructions
 
 ### 1. Get a TMDB API Key
@@ -29,3 +34,6 @@ const config = {
 - **Never** commit your `config.js` file to GitHub
 - The `config.example.js` is the template - don't put your real API key there
 - If someone clones your project, they'll need to create their own `config.js` from the example file
+
+### Credits
+Image by <a href="https://pixabay.com/users/arttower-5337/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7138980">Brigitte Werner</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7138980">Pixabay</a>
